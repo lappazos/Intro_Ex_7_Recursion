@@ -1,0 +1,21 @@
+lioraryepaz 206240996 Lior Paz
+
+=============================
+=  README for ex7: Recursion  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+In the exercise we implemented different recursion techniques on variuos
+functions - linear and non-linear.
+the top  of course was the great Hanoi Towers - how glorious.
+in all of my non-linear functions (part b, after hanoi) i used main helper func
+ for all, in order to avoid code repeat.
+
+======================
+=  Special Comments  =
+======================
+a short bries on recursion limits - how and when exactly we reach too much
+recursion depth, and its effect on running time - could be great.
